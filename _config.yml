@@ -1,27 +1,6 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @parthysing
- Sign out
- Watch 0
-  Star 0
-  Fork 398 parthysing/online-cv
-forked from sharu725/online-cv
- Code  Pull requests 0  Projects 0  Wiki  Settings Insights 
-Branch: master Find file Copy pathonline-cv/_config.yml
-5fd6a88  on Mar 29
-@dhmdmdhm dhmdmdhm Optional google analytics
-2 contributors @dhmdmdhm @Redgadget
-RawBlameHistory     
-32 lines (23 sloc)  756 Bytes
-
 title: My Resume
 url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/first-web' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
